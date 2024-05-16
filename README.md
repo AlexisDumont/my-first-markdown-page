@@ -1,20 +1,20 @@
 # Alexis Futur Junior Développeur FullStack
 
-[1.Who am I](#who-am-i)
+1. [Who am I](#who-am-i)
 
-[2.My surprising skills](#my-surprising-skills)
+2. [My surprising skills](#my-surprising-skills)
 
-[3.My favorites things in this Universe](#my-favorites-things-in-the-universe)
+3. [My favorites things in this Universe](#my-favorites-things-in-the-universe)
 
-[4.After BeCode](#after-becode)
+4. [After BeCode](#after-becode)
 
-[5.My fears ?](#my-fears)
+5. [My fears ?](#my-fears)
 
-[6.What I'm looking forward to ?](#what-im-looking-forward-to)
+6. [What I'm looking forward to ?](#what-im-looking-forward-to)
 
-[7.Why did you need me in your team ?](#why-did-you-need-me-in-your-team)
+7. [Why did you need me in your team ?](#why-did-you-need-me-in-your-team)
 
-[8.My favorite GIF](#my-favorite-gif)
+8. [My favorite GIF](#my-favorite-gif)
 
 ## Who am I
 
@@ -22,6 +22,12 @@ I'm a 22 years old guy who try is best to be a better person. I look shy as f*ck
 training to become the `BEST` Fullstack Developer.
 
 ## My surprising skills
+
+- I'm able to make a right angle with my thumb.
+
+- Not so surprising but without training I'm able to run something like 5km.
+
+- 
 
 ## My favorites things in the Universe
 
